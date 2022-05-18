@@ -1,0 +1,10 @@
+notebook
+
+qiskit==0.36.1
+qiskit-optimization==0.3.2
+pytket==1.2.1
+pytket-qiskit==0.24.0
+
+networkx==2.8
+matplotlib==3.5.2
+pydot==1.4.2
